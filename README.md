@@ -3,7 +3,7 @@
 Is Singapore a Good place to work/live in for working adults ages 19 and older?
 
 ### Factors
-Through data cleaning and visualisation using the power bi software my team and I looked at 4 major factors that can determine whether Sinagapore is a good place to live in
+Through data cleaning and visualisation using the Power BI software my team and I looked at 4 major factors that can determine whether Sinagapore is a good place to live in
 - Job security and opportunities
 - Income and Expenditure
 - Healthcare
